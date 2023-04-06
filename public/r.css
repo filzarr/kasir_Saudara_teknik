@@ -1,0 +1,21 @@
+#card{
+   background-color: white !important;
+}
+#side{
+    width: 100px !important;
+    display: block !important;
+}
+body{
+    background-color: #f5f5f5 !important;
+}
+body {
+    font-family: 'Lato', sans-serif !important;
+    font-family: 'Poppins', sans-serif !important;
+  }
+#nav{
+    text-decoration: none !important;
+    color: #f5f5f5;
+}
+#nav .active{
+    background-color: #1a2940 !important;
+}
